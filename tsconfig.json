@@ -16,7 +16,7 @@
     ],
     "baseUrl": ".",
     "paths": {
-      "@nrwl-protractor/*": [
+      "@nrwl-cucumber/*": [
         "libs/*"
       ]
     }

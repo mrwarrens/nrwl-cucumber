@@ -113,7 +113,7 @@
     "nx-enforce-module-boundaries": [
       true,
       {
-        "npmScope": "nrwl-protractor",
+        "npmScope": "nrwl-cucumber",
         "lazyLoad": []
       }
     ]

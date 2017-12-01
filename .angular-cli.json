@@ -1,8 +1,8 @@
 {
   "$schema": "./node_modules/@nrwl/schematics/src/schema.json",
   "project": {
-    "name": "nrwl-protractor",
-    "npmScope": "nrwl-protractor",
+    "name": "nrwl-cucumber",
+    "npmScope": "nrwl-cucumber",
     "latestMigration": "0.2.2"
   },
   "apps": [
