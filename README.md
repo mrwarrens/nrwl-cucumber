@@ -2,8 +2,7 @@
 
 This is an example of a nrwl workspace using Cucumber & Protractor. By default nrwl workspaces use Jasmin & Protractor.
 
-For more details see the [wiki](https://github.com/mrwarrens/nrwl-cucumber/wiki)
-
+For more details on the changes see [wiki](https://github.com/mrwarrens/nrwl-cucumber/wiki)
 
 #### Commands 
 
@@ -19,4 +18,5 @@ Skip updating webdriver
 
 `ng e2e --app=myapp1 --webdriver-update=false`
 
-*Note this implementation makes `app` a required parameter.*
+#### Notes
+This implementation makes `app` a required parameter.
