@@ -1,4 +1,4 @@
-# NrwlProtractor
+# NrwlCucumber
 
 This is an example of a [nrwl workspace](https://nrwl.io/nx) using Cucumber & Protractor. By default nrwl workspaces use Jasmin & Protractor.
 
